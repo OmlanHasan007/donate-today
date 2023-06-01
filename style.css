@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.blog-head{
+    background-image: url(images/donation8.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+    height: 350px;
+    background-repeat: no-repeat;
+}
+h1{
+    font-size: 50px;
+    color: rgb(116, 162, 170);
+}
+.blog-head p{
+    color: rgb(192, 240, 240);
+}
+.button-style{
+    color: white;
+    background-color: tomato;
+    border-radius: 5px;
+    border-color: tomato;
+    width: 70px;
+    height: 40px;
+}
+.midsec-blog{
+    text-align: center;
+}
+.create-box{
+    border: 10px;
+    border-color:rgb(15, 1, 29);
+    border-radius: 5px;
+    box-shadow: 5px black;
+    margin: 5px;
+    padding: 5px;
+}
